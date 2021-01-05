@@ -1,0 +1,3 @@
+include ':RefriLibrary'
+include ':app'
+rootProject.name = "ProjectRefriLibrary"
